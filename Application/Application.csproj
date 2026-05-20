@@ -9,7 +9,7 @@
 	<ItemGroup>
 		<PackageReference Include="MediatR" Version="12.2.0" />
 		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
-
+		<PackageReference Include="Microsoft.Extentions.Identity.Stores" Version="8.0.3"/>
 		<PackageReference Include="NetcodeHub.Packages.Extensions.Attributes.Requiredguid" Version="1.0.0" />
 	</ItemGroup>
 
