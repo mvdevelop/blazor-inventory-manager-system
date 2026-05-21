@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\marco\\programming\\my-projects\\cs\\blazorisinventorymanagersystem\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\marco\\programming\\my-projects\\cs\\blazorisinventorymanagersystem\\application\\extension\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\extension\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BA2C9-509D-43C7-8C99-B0B4EAF7A90B}|Domain\\Domain.csproj|c:\\users\\marco\\programming\\my-projects\\cs\\blazorisinventorymanagersystem\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{589BA2C9-509D-43C7-8C99-B0B4EAF7A90B}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1F3D13A-3A31-4BDE-B287-66FA088EE03D}|WebUI\\WebUI.csproj|c:\\users\\marco\\programming\\my-projects\\cs\\blazorisinventorymanagersystem\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1F3D13A-3A31-4BDE-B287-66FA088EE03D}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\Application\\Application.csproj*",
+              "RelativeToolTip": "Application\\Application.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-21T14:29:30.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\Application\\Extension\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Application\\Extension\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\Application\\Extension\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Application\\Extension\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:17:57.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-21T14:07:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\WebUI\\Program.cs",
               "RelativeDocumentMoniker": "WebUI\\Program.cs",
               "ToolTip": "C:\\Users\\marco\\Programming\\my-projects\\cs\\BlazorIsInventoryManagerSystem\\WebUI\\Program.cs",
               "RelativeToolTip": "WebUI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T18:08:52.432Z",
               "EditorCaption": ""

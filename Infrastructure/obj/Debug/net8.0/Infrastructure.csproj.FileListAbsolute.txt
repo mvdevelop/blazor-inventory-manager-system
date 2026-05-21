@@ -10,3 +10,4 @@ C:\Users\marco\Programming\my-projects\cs\BlazorIsInventoryManagerSystem\Infrast
 C:\Users\marco\Programming\my-projects\cs\BlazorIsInventoryManagerSystem\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\marco\Programming\my-projects\cs\BlazorIsInventoryManagerSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\marco\Programming\my-projects\cs\BlazorIsInventoryManagerSystem\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\marco\Programming\my-projects\cs\BlazorIsInventoryManagerSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
